@@ -89,6 +89,7 @@ Relevant Coursework: Data Structures & Algorithms, AI, Machine Learning, Cyberse
 
 - **CompTIA Security+** (June 2024 – July 2027)
 - **Google Cybersecurity Professional Certificate** (Sept 2024 - Present)
+- **GRC Professional** (March 2025 - March 2026)
 
 ---
 
